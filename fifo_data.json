@@ -1,0 +1,38 @@
+{
+    "Алишер": {
+        "games": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "goals_scored": 1,
+        "goals_conceded": 10,
+        "points": 0
+    },
+    "Адилжан": {
+        "games": 2,
+        "wins": 2,
+        "draws": 0,
+        "losses": 0,
+        "goals_scored": 15,
+        "goals_conceded": 2,
+        "points": 6
+    },
+    "Шахрух": {
+        "games": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "goals_scored": 1,
+        "goals_conceded": 5,
+        "points": 0
+    },
+    "Нургиса": {
+        "games": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goals_scored": 0,
+        "goals_conceded": 0,
+        "points": 0
+    }
+}
